@@ -98,5 +98,7 @@ Make sure your `.ipynb` file is uploaded to the root of this repository and name
 
 No local setup needed.
 
-All required libraries will be installed in the notebook itself using `pip install` commands.
+All dependencies are installed directly in the Colab notebook using `pip install` commands.
+
+A `requirements.txt` file is included in the repository for reference or for users who want to run the code outside of Colab.
 
