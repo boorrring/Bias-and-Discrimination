@@ -70,3 +70,33 @@ The system is designed as a modular pipeline that processes input text or live R
 - Deploy using cloud services (AWS, GCP, Azure).
 - Build an admin dashboard for real-time monitoring and alerts.
 
+## 🚀 Getting Started
+
+This project runs entirely on Google Colab. You don't need to set up anything locally — just open the notebook and start exploring!
+
+### 🧾 Steps to Run
+
+1. Click the button below to open the notebook in Colab:
+
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/bias-discrimination-check/blob/main/your-notebook.ipynb)
+
+2. Run the cells in order.
+
+3. The notebook will:
+   - Install required dependencies (like `transformers`, `praw`, etc.).
+   - Load or scrape data.
+   - Preprocess and classify comments.
+   - Display a Gradio interface for real-time testing.
+
+### 📂 Notebook Location
+
+Make sure your `.ipynb` file is uploaded to the root of this repository and named clearly, e.g., `bias_discrimination_check.ipynb`.
+
+---
+
+### 🛠 Requirements
+
+No local setup needed.
+
+All required libraries will be installed in the notebook itself using `pip install` commands.
+
